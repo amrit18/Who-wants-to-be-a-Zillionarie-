@@ -1,0 +1,1300 @@
+{
+  "Zillionaire": [
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Which Rowan played Mr Bean? ",
+      "askForClue": "He played Rufus in Love Actually",
+      "answerA": "Rowan Atkinson",
+      "answerB": "Hugh Jackman",
+      "answerC": "Robert Downey Jr",
+      "answerD": "Benedict Cumberbatch"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the series about LA lifeguards called? ",
+      "askForClue": "Recently had a film reboot starring The Rock",
+      "answerA": "Baywatch",
+      "answerB": "M.A.S.H",
+      "answerC": "Friends",
+      "answerD": "The Wire"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What was the House made of in the political drama?",
+      "askForClue": "You can play with these items.",
+      "answerA": "Cards",
+      "answerB": "Domino's",
+      "answerC": "Dice",
+      "answerD": "Sweets"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "In which show did Princess of Wales give her first solo interview in 1995?",
+      "askForClue": "It was a very controversial interview aired on BBC",
+      "answerA": "Panorama",
+      "answerB": "Dispatches",
+      "answerC": "Victoria Derbyshire",
+      "answerD": "Newsnight"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "In Doctor Who what does TARDIS stand for? ",
+      "askForClue": "T stands for time.",
+      "answerA": "Time and Relative Dimensions in Space",
+      "answerB": "Time and Realitivity Dimonds in Spain",
+      "answerC": "Talking Ants Ride Ducks In Space",
+      "answerD": "Toliets And Rescures Distance In Space"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who were the judges for The Great British Bake Off in season 7? ",
+      "askForClue": "One of the judges left after the show moved over to Channel 4",
+      "answerA": "Paul Hollywood and Marry Berry",
+      "answerB": "Paul Hollywood and Pure Leith",
+      "answerC": "Pure Leith and Mary Berry",
+      "answerD": "Ant and Dec"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Where were the characters in the show Porridge?",
+      "askForClue": "People go here when they have committed a crime.",
+      "answerA": "Prison",
+      "answerB": "School",
+      "answerC": "Police Station",
+      "answerD": "Farm"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "In which soap is there a pub called The Woolpack",
+      "askForClue": "The soap is based on a farm",
+      "answerA": "Emmerdale",
+      "answerB": "Holloyaks",
+      "answerC": "EastEnders",
+      "answerD": "Coronation Street"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Comedy drama set on a council estate and created by Paul Abott? ",
+      "askForClue": "The show has an american version, and is still on air",
+      "answerA": "Shameless",
+      "answerB": "Misfits",
+      "answerC": "Skins",
+      "answerD": "Fresh Meat"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Which series from the 2000s featured the characters sheldon and Leonard? ",
+      "askForClue": "The show is currently on its 10th season.",
+      "answerA": "The Big Bang Theory",
+      "answerB": "Modern Family",
+      "answerC": "Mom",
+      "answerD": "Riverdale"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Christine Baranski plays Diane Lockhart in which American legal drama? ",
+      "askForClue": "The show has a spin off now called The Good Fight.",
+      "answerA": "The Good Wife",
+      "answerB": "The Good Fight",
+      "answerC": "Gilmore Girls",
+      "answerD": "The Big Bang Theory"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who plays Sherlock Holmes in the TV series Sherlock Holmes?",
+      "askForClue": "The actor is also in films such as Imitation Game, and Four Lions",
+      "answerA": "Benedict Cumberbatch",
+      "answerB": "Martin Freeman",
+      "answerC": "Peter Capdi",
+      "answerD": "Hugh Laurie"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Which BBC1 drama featured deadly maternity cover? ",
+      "askForClue": "The show only has 3 episodes.",
+      "answerA": "The Replacement",
+      "answerB": "One Born Every Minute",
+      "answerC": "Grey's Anatomy",
+      "answerD": "Call The Midwife"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Name the spin off for the legal drama The Good Wife.",
+      "askForClue": "The spin off is about the character Diana Lockhart",
+      "answerA": "The Good Fight",
+      "answerB": "The Good Wife",
+      "answerC": "Suits",
+      "answerD": "Scandal"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of the cafe in Coronation Street?",
+      "askForClue": "The owners name is Roy Cropper",
+      "answerA": "Roy's Rolls",
+      "answerB": "Jim's Cafe",
+      "answerC": "The Wolfpack",
+      "answerD": "Dawson's Cafe"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who is the host of the TV show Q.I ",
+      "askForClue": "Stephen Fry was the host for 13 years",
+      "answerA": "Sandi Toksvig",
+      "answerB": "Stephen Fry",
+      "answerC": "Jeremy Clarkson",
+      "answerD": "David Mitchell"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of Postman Pat's pet cat?",
+      "askForClue": "The cat has a theme song.",
+      "answerA": "Jess",
+      "answerB": "Mrs Goggins",
+      "answerC": "Ted Glen",
+      "answerD": "Steve"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "How many boxes are used in the UK version of Deal Or No Deal?",
+      "askForClue": "The shows presenter is called Noel Edmonds",
+      "answerA": "22",
+      "answerB": "23",
+      "answerC": "19",
+      "answerD": "20"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is Doctor Who's time box called?",
+      "askForClue": "The first letter is T",
+      "answerA": "TARDIS",
+      "answerB": "TARUS",
+      "answerC": "Time Machine",
+      "answerD": "Space Machine"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the first season of American Horror Story called?",
+      "askForClue": "The first season is in a haunted house",
+      "answerA": "Murder House",
+      "answerB": "Asylum",
+      "answerC": "Coven",
+      "answerD": "Freak Show"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who pushed Bran Stark from the tower? (Game Of Thrones)",
+      "askForClue": "The character was a Lannister",
+      "answerA": "Jamie Lannister",
+      "answerB": "Jon Snow",
+      "answerC": "Cersei Lannister",
+      "answerD": "Ned Stark"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of the show whihc begins with a crash of Oceanic Airlines Flight 815?",
+      "askForClue": "The show is created by J.J Abrams",
+      "answerA": "Lost",
+      "answerB": "Gilmore Girls",
+      "answerC": "American Horror Story",
+      "answerD": "Friends"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who plays the former model, Gabrielle, in the show Desperate Housewives?",
+      "askForClue": "She is best friends with Victoria Beckham",
+      "answerA": "Eva Longoria",
+      "answerB": "Eva Mendes",
+      "answerC": "Teri Hatcher",
+      "answerD": "Felicity Hauffman"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who is Gossip Girl in the TV-Show Gossip Girl?",
+      "askForClue": "Gossip Girl was a guy.",
+      "answerA": "Dan Humprey",
+      "answerB": "Serena Van Der Woodsen",
+      "answerC": "Blair Waldorf",
+      "answerD": "Chuck Bass"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "How many seasons does the show of Game Of Thrones currently have(2018)?",
+      "askForClue": "The show hasn't ended yet and the next season is expected to be released in 2019.",
+      "answerA": "Seven",
+      "answerB": "Six",
+      "answerC": "Four",
+      "answerD": "Two"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of the first episode of Game Of Thrones called?",
+      "askForClue": "It is a popular phrase, and many people assocaite this phrase with the TV-Show.",
+      "answerA": "Winter Is Coming",
+      "answerB": "The Red Wedding",
+      "answerC": "The Dragon And The Wolf ",
+      "answerD": "The Queens Justice"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Which TV-Show is based on Archie Comics?",
+      "askForClue": "The first season is about who killed Jason Blossom.",
+      "answerA": "Riverdale",
+      "answerB": "Friends",
+      "answerC": "13 Reasons Why",
+      "answerD": "Orange Is The New Black"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of the TV-Show where a housewife kills herself in the first episode?",
+      "askForClue": "The show is about 4 housewives living in a fictional town called Fairview.",
+      "answerA": "Desperate Housewives",
+      "answerB": "Gilmore Girls",
+      "answerC": "13 Reasons Why",
+      "answerD": "Friends"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of the TV-Show starting Jason Bateman and Laura Linney? ",
+      "askForClue": "The show is produced by Netflix and currenlty has 13 episodes ",
+      "answerA": "Ozark",
+      "answerB": "13 Reasons Why",
+      "answerC": "Desperate Housewives",
+      "answerD": "IT Crowd"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of the show were a teenage girl kills herself and leaves tapes behind? ",
+      "askForClue": "The main character is named Hannah Baker",
+      "answerA": "13 Reasons Why",
+      "answerB": "Veep",
+      "answerC": "Orange Is The New Black",
+      "answerD": "How I Met Your Mother"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who narrates the show Planet Earth?",
+      "askForClue": "Also narrates the show Blue Planet",
+      "answerA": "David Attenborough",
+      "answerB": "Morgan Freeman",
+      "answerC": "George Lass",
+      "answerD": "David Tennant"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who won The Great British Bake Off in 2016?",
+      "askForClue": "Was a P.E teacher before they won Bake Off.",
+      "answerA": "Candice Brown",
+      "answerB": "Paul Hollywood",
+      "answerC": "Jane Beedle",
+      "answerD": "Andrew Smyth"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Which children's TV-Series was starring Selena Gomes as the character named Alex?",
+      "askForClue": "The show was based in New York in a sandwich shop.",
+      "answerA": "Wizards Of Waverly Place",
+      "answerB": "Hannah Montanna",
+      "answerC": "13 Reasons Why",
+      "answerD": "Gossip Girl"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of the TV-Show George Clooney starred in? ",
+      "askForClue": "The show was a medical drama.",
+      "answerA": "E.R",
+      "answerB": "Grey's Anatomy",
+      "answerC": "Designate Survivor",
+      "answerD": "House Of Cards"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "How many seasons are there of Parks and Recreation?",
+      "askForClue": "The show ended in 2015 and started in 2009.",
+      "answerA": "Seven",
+      "answerB": "Ten",
+      "answerC": "Twenty",
+      "answerD": "Four"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "How many seasons are there of Breaking Bad?",
+      "askForClue": "There is now a spin off called Better Call Saul with 3 seasons.",
+      "answerA": "Five",
+      "answerB": "Four",
+      "answerC": "Ten",
+      "answerD": "Six"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who plays Lorelai Gilmore in the TV-Show Gilmore Girls?",
+      "askForClue": "This person was also on a TV-Show called Parenthood",
+      "answerA": "Lauren Graham",
+      "answerB": "Melissa McCarthy",
+      "answerC": "Alexis Bledel",
+      "answerD": "Katy Perry"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the longest running tv-series in America?",
+      "askForClue": "The show is a cartoon.",
+      "answerA": "The Simpsons",
+      "answerB": "Gunsmoke",
+      "answerC": "Law and Order",
+      "answerD": "Family Guy"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who produced and created the UK sitcom \"The Office\"?",
+      "askForClue": "This person also produced the show Derek and Extras.",
+      "answerA": "Ricky Gervais",
+      "answerB": "Steve Carell",
+      "answerC": "John Bishop",
+      "answerD": "Graham Norton"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Which tv series use the phrase \"The Truth Is Out There\"? ",
+      "askForClue": "The main characters are known as Scully and Mulder",
+      "answerA": "X-Files",
+      "answerB": "Grey's Anatomy",
+      "answerC": "Friends",
+      "answerD": "Emmerdale"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Rory and Lorelai are characters from which show?",
+      "askForClue": "The show recently had a 4 part revial.",
+      "answerA": "Gilmore Girls",
+      "answerB": "13 Reasons Why",
+      "answerC": "Cheers",
+      "answerD": "Chicago"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "What is the name of the British TV Shows that features international rescue?",
+      "askForClue": "The show follows the exploits of the Tracy Family",
+      "answerA": "Thunderbirds",
+      "answerB": "EastEnders",
+      "answerC": "Emmerdale",
+      "answerD": "The Fall"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who created the show The Big Bang Theory?",
+      "askForClue": "Also created other popular shows. Such as Young Sheldon, Two and a Half Men, and Mom",
+      "answerA": "Chuck Lorre",
+      "answerB": "Sheldon",
+      "answerC": "Ricky Gervais",
+      "answerD": "Morgan Freeman"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "The show Young Sheldon is a spin off for which tv-show? ",
+      "askForClue": "The show is an American sitcome created by Chuck Lorre.",
+      "answerA": "The Big Bang Theory",
+      "answerB": "Breaking Bad ",
+      "answerC": "Gilmore Girls",
+      "answerD": "House Of Cards"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "The show Better Call Saul is a spin off for which TV-Show?",
+      "askForClue": "The show stars a character named Walter White.",
+      "answerA": "Breaking Bad",
+      "answerB": "Friends",
+      "answerC": "Designated Survivor",
+      "answerD": "Grey's Anatomy"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who plays the first female Doctor in Doctor Who?",
+      "askForClue": "She's was also in a show called Broadchurch.",
+      "answerA": "Jodi Whittaker",
+      "answerB": "Gillian Anderson",
+      "answerC": "Olivia Coleman",
+      "answerD": "Kate Winslet"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who will be playing the Queen in season 3 of the show \"The Crown\"? ",
+      "askForClue": "She plays a detective in a show called Broadchurch",
+      "answerA": "Olivia Coleman",
+      "answerB": "Gillian Anderson",
+      "answerC": "Helen Mirren",
+      "answerD": "Emma Thompson"
+    },
+    {
+      "gameCategory": "TV-Shows",
+      "gameQuestion": "Who created the TV-Show Grey's Anatomy?",
+      "askForClue": "The person also created the show Scandal.",
+      "answerA": "Shonda Rhimes",
+      "answerB": "Amy Sherman Palladion",
+      "answerC": "Ricky Gervais",
+      "answerD": "Chuck Lorre"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who killed US President Abraham Lincoln?",
+      "askForClue": "The year Abraham got shot was in 1985",
+      "answerA": "John Wikes Booth",
+      "answerB": "Lee Harvey Oswold",
+      "answerC": "George Bush",
+      "answerD": "Osama Bin Laden"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Ag is the symbol of which chemical element?",
+      "askForClue": "Has an atomic number 47.",
+      "answerA": "Sliver",
+      "answerB": "Gold",
+      "answerC": "Platinium",
+      "answerD": "Oxygen"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who is the current president of the United States (Feb 2018)?",
+      "askForClue": "He is the 2nd president not to win the popular vote.",
+      "answerA": "Donald Trump",
+      "answerB": "Barack Obama",
+      "answerC": "George Bush",
+      "answerD": "Hillary Clinton"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "In which year did Hitler come to power?",
+      "askForClue": "WW2 broke out in 1939",
+      "answerA": "1933",
+      "answerB": "1939",
+      "answerC": "1949",
+      "answerD": "1918"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "How many time zones does the US have?",
+      "askForClue": "There is Hawaii, Alaska, Pacific, Mountain, Central and Eastern",
+      "answerA": "6",
+      "answerB": "4",
+      "answerC": "2",
+      "answerD": "3"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Where was the 20th FIFA World Cup held?",
+      "askForClue": "This country came 4th in this World Cup tornament.",
+      "answerA": "Brazil",
+      "answerB": "Spain",
+      "answerC": "Russia",
+      "answerD": "France"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who is the current leader of the labour party(2018)?",
+      "askForClue": "The leader is MP for Islington North.",
+      "answerA": "Jeremy Corbyn",
+      "answerB": "Jeremy Paxman",
+      "answerC": "Diana Abott",
+      "answerD": "Tony Blair"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who is the fasted 100m sprinter(2018)?",
+      "askForClue": "The world record set by the sprinter is 9.58 seconds.",
+      "answerA": "Usain Bolt",
+      "answerB": "Tyson Gay",
+      "answerC": "Asafa Powell",
+      "answerD": "Maurice Greene"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Where does the British Prime Minister live?",
+      "askForClue": "The house is in Westminster, London. ",
+      "answerA": "10 Downing Street",
+      "answerB": "The White House ",
+      "answerC": "Buckingham Palace",
+      "answerD": "Trafalguar Sqaure "
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which country was at the top of the medals table in the Rio Olympics 2016:",
+      "askForClue": "This country had the swimmer Micheal Phelps representing them.",
+      "answerA": "USA",
+      "answerB": "China",
+      "answerC": "Great Britain",
+      "answerD": "Russia"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who invented the telephone?",
+      "askForClue": "The first call was made on March 10, 1876, from the inventor to his assistant.",
+      "answerA": "Alexander Graham Bell",
+      "answerB": "Thomas Watson",
+      "answerC": "Alan Turing",
+      "answerD": "Albert Einstein"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who is the first President Of The USA?",
+      "askForClue": "Served as president during the American Revolutionary War.",
+      "answerA": "George Washington",
+      "answerB": "Thomas Jefferson",
+      "answerC": "Barack Obama",
+      "answerD": "Donald Trump"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who killed John F Kennedy?",
+      "askForClue": "John F Kennedy was assassinated in Texas",
+      "answerA": "Lee Harvey Oswald",
+      "answerB": "Quincy Jones",
+      "answerC": "Bobby Kennedy",
+      "answerD": "Lyndon B.Johnson"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who is the first British Prime Minister?",
+      "askForClue": "Led the government from 1721 to 1742 therefore the longest serving Prime Minister",
+      "answerA": "Robert Walpole",
+      "answerB": "David Cameron",
+      "answerC": "Frederick North, Lord North",
+      "answerD": "Elizabeth Windsor"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which female tennis player won Wimbeldon in 2017?",
+      "askForClue": "She has a grand total of 2 grand slams.",
+      "answerA": "Serena Williams",
+      "answerB": "Heather Watson",
+      "answerC": "Venus Williams",
+      "answerD": "Gabrine Murguruza"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "What is the tallest building in the world?",
+      "askForClue": "The building is in Dubai.",
+      "answerA": "Burj Khalifa",
+      "answerB": "Shanghai Tower",
+      "answerC": "Goldin Finance",
+      "answerD": "Makkah Royal Clock Tower"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which tennis player won Wimbeldon in 2016?",
+      "askForClue": "He is the first British player to win a grand slam since Fred Perry",
+      "answerA": "Andy Murray",
+      "answerB": "Roger Ferder",
+      "answerC": "Rafa Nadal",
+      "answerD": "Novak Djokvick"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "How tall is the Burj Khalifa?",
+      "askForClue": "The building is 2,717 ft",
+      "answerA": "828m",
+      "answerB": "800m",
+      "answerC": "632m",
+      "answerD": "400m"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "When did the First World War breakout?",
+      "askForClue": "The war lasted 4 years and ended in 1918",
+      "answerA": "\"1914\"",
+      "answerB": "\"1942\"",
+      "answerC": "\"1900\"",
+      "answerD": "\"1916\""
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "When did the Second World War breakout?",
+      "askForClue": "The war lasted 6 years and ended in 1945.",
+      "answerA": "\"1939\"",
+      "answerB": "\"1918\"",
+      "answerC": "\"1942\"",
+      "answerD": "\"1935\""
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "In which year did England win the World Cup final?",
+      "askForClue": "England did make it to the 1966 World Cup Final.",
+      "answerA": "\"1966\"",
+      "answerB": "\"1972\"",
+      "answerC": "\"1932\"",
+      "answerD": "\"1962\""
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "How many World Cup have England won?",
+      "askForClue": "England did make it to the 1966 World Cup Final.",
+      "answerA": "\"1\"",
+      "answerB": "\"0\"",
+      "answerC": "\"4\"",
+      "answerD": "\"2\""
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Amsterdam is capital of which country?",
+      "askForClue": "The country is informally know as Holland.",
+      "answerA": "Netherlands",
+      "answerB": "Italy",
+      "answerC": "Greece",
+      "answerD": "Belgium"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Where did Anne Frank hide from the Nazis during WW2?",
+      "askForClue": "Anne Frank was hiding in an attic apartment behind Otto Franks business.",
+      "answerA": "Netherlands",
+      "answerB": "Belgium",
+      "answerC": "England",
+      "answerD": "France"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Charles Dickens is famous for writing which book?",
+      "askForClue": "Other famous books Charles Dickens wrote are A Christmas Carol, and Great Expectations",
+      "answerA": "Oliver Twist",
+      "answerB": "Harry Potter",
+      "answerC": "Macbeth",
+      "answerD": "Lord Of The Rings"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who wrote Harry Potter?",
+      "askForClue": "The write was broke before they wrote Harry Potter.",
+      "answerA": "J.K Rowling",
+      "answerB": "Charles Dickens",
+      "answerC": "Roald Dahl",
+      "answerD": "Jojo Moyes"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which actor has won the most Oscars?",
+      "askForClue": "One of the films they won an Oscar was called Morning Glory.",
+      "answerA": "Katharine Hepburn",
+      "answerB": "Meryl Streep",
+      "answerC": "Daniel Day-Lewis",
+      "answerD": "Jack Nicholson"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which country has won the most World Cups?",
+      "askForClue": "The country hosted the Summer Olympics 2016",
+      "answerA": "Brazil",
+      "answerB": "England",
+      "answerC": "Italy",
+      "answerD": "Russia"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "What is the capital of India?",
+      "askForClue": "Has attractions such as the Lotus Temple, and India Gate",
+      "answerA": "Dehli",
+      "answerB": "Amritsar",
+      "answerC": "Goa",
+      "answerD": "Mumbai"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which country is the richest country in the world?",
+      "askForClue": "The GDP per capita for the richest county in the world is 105,791 pounds. ",
+      "answerA": "Qatar",
+      "answerB": "Norway",
+      "answerC": "Macao",
+      "answerD": "Luxembourg"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which city is the most polluted city in the world?",
+      "askForClue": "The city lies on the borded with Afgahnistan.",
+      "answerA": "Zabol",
+      "answerB": "Gwalior",
+      "answerC": "Shjiazhuang",
+      "answerD": "Dehli"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who was the Czar of Russia in 1916?",
+      "askForClue": "Was the last Emperor Of Russia",
+      "answerA": "Nicholes II",
+      "answerB": "Ivan IV",
+      "answerC": "Vladimir I",
+      "answerD": "Sviatopolk"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who is the first female British Prime Minister?",
+      "askForClue": "She studied Chemsitry at Oxford before becoming a politican",
+      "answerA": "Margaret Thatcher",
+      "answerB": "Theresa May",
+      "answerC": "Hillary Clinton",
+      "answerD": "Elizabeth Windsor"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "What do giant pandas mainly eat?",
+      "askForClue": "Fastest growing plant.",
+      "answerA": "Bamboo",
+      "answerB": "Grass",
+      "answerC": "Faeces",
+      "answerD": "Leaves"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who created Disney?",
+      "askForClue": "Have you ever watched Saving Mr Banks?",
+      "answerA": "Walt Disney",
+      "answerB": "Steve Disney",
+      "answerC": "Bill Disney",
+      "answerD": "Bob Disney"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which country has the highest life expectancy? ",
+      "askForClue": "The capital city is Tokyo.",
+      "answerA": "Japan",
+      "answerB": "Australia",
+      "answerC": "England",
+      "answerD": "India"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "According to the song, what gift is given on the 3rd day of christmas?",
+      "askForClue": "It involves an animal",
+      "answerA": "French Hens",
+      "answerB": "Partridge In A Pear Tree",
+      "answerC": "Golden Rings",
+      "answerD": "Turtle Doves"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which company is involved with making the Android Operating System?",
+      "askForClue": "Very popular search engine when using the Internet.",
+      "answerA": "Google",
+      "answerB": "Apple",
+      "answerC": "Microsoft",
+      "answerD": "HP"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Which person in one of the co-founders of Apple?",
+      "askForClue": "Steve Wozniak is the other co-founder.",
+      "answerA": "Steve Jobs",
+      "answerB": "Steven Spielberg",
+      "answerC": "Richard Stallman",
+      "answerD": "Bill Gates"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who co-founded Snapchat?",
+      "askForClue": "He is married to model Miranda Kerr.",
+      "answerA": "Evan Spiegel",
+      "answerB": "Steve Jobs ",
+      "answerC": "Bill Gates",
+      "answerD": "Richard Stallman"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "What is the name of the tallest mountain in the world?",
+      "askForClue": "The mountain is in both Nepal and China.",
+      "answerA": "Mount Everest",
+      "answerB": "K2",
+      "answerC": "Lhotse",
+      "answerD": "Makalu"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "What is the height of the tallest mountain in the world?",
+      "askForClue": "The tallest mountain in the world is Mount Everst.",
+      "answerA": "8,488m",
+      "answerB": "8,586m",
+      "answerC": "7,200m",
+      "answerD": "8,000m"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "In what year could women above the age of 18 in the United Kingdom vote?",
+      "askForClue": "Women are equal to men when it comes to voting in 1928",
+      "answerA": "\"1969\"",
+      "answerB": "\"1928\"",
+      "answerC": "\"1919\"",
+      "answerD": "\"1942\""
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who assassinated Archduke Franz Ferdinand?",
+      "askForClue": "The man who shot Franz Ferdinand spotted the Archduke from a cafe.",
+      "answerA": "Gavrilo Princip",
+      "answerB": "Bogdan Zerajic",
+      "answerC": "Marijan Varesanin",
+      "answerD": "Danilo Lilic"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "In what year was the NHS created?",
+      "askForClue": "Clement Attles was the Prime Minister during this time",
+      "answerA": "\"1948\"",
+      "answerB": "\"2010\"",
+      "answerC": "\"1991\"",
+      "answerD": "\"1942\""
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "Who was the first man on the moon?",
+      "askForClue": "The man is famous for saying \"That's one small step for a man, one giant leap for mankind\"",
+      "answerA": "Neil Armstrong",
+      "answerB": "Micheal Collins",
+      "answerC": "Buzz Aldrin",
+      "answerD": "Buzz Armstrong"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "H is the symbol of which chemical element?",
+      "askForClue": "The first element in the peridoic table.",
+      "answerA": "Hydrogen",
+      "answerB": "Helium",
+      "answerC": "Sliver",
+      "answerD": "Oxygen"
+    },
+    {
+      "gameCategory": "General Knowledge",
+      "gameQuestion": "What is Albert Einstein best known?",
+      "askForClue": "Einstein won a noble prize for this topic",
+      "answerA": "Theory Of Reactivity",
+      "answerB": "Black Holes",
+      "answerC": "Computers",
+      "answerD": "Law Of Gravitation"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who does the voice over for Dory from 'Finding Nemo'? ",
+      "askForClue": "This person hosts a famous talk show ",
+      "answerA": "Ellen Degeneres",
+      "answerB": "Albert Brooks",
+      "answerC": "Willem Dafoe",
+      "answerD": "Alexander Gould"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which actress played Katnisss Everdeen in Hunger Games",
+      "askForClue": "She won an oscar for Sliver Linings Playbook",
+      "answerA": "Jennifer Lawerence",
+      "answerB": "Jennifer Garner",
+      "answerC": "Katie Holmes",
+      "answerD": "Elizabeth Banks"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who directed the movies 'Jaws' and Schindler's List?",
+      "askForClue": "Also directed Jurassic Park",
+      "answerA": "Stephen Spielberg",
+      "answerB": "Martin Scoresse",
+      "answerC": "Micheal J Fox ",
+      "answerD": "Ellen Degeneres"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who won Best Actress at the Oscars in 2017?",
+      "askForClue": "She was also in the film Easy A, and Crazy Stupid Love.",
+      "answerA": "Emma Stone",
+      "answerB": "Nataile Portman",
+      "answerC": "Isabelle Huppert",
+      "answerD": "Meryl Streep"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which one of the answer is a Christmas Movie?",
+      "askForClue": "The film is staring Macaulay Culkin",
+      "answerA": "Home Alone",
+      "answerB": "Bridesmaids ",
+      "answerC": "The Godfather",
+      "answerD": "The Incredibles"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "How many movies has Leonardo DiCaprio stared in? ",
+      "askForClue": "He only won one Oscar.",
+      "answerA": "\"42\"",
+      "answerB": "\"45\"",
+      "answerC": "\"30\"",
+      "answerD": "\"50\""
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which movie has grossed the most in the box office? ",
+      "askForClue": "Development of this film began in 1994.",
+      "answerA": "Avatar ",
+      "answerB": "Harry Potter",
+      "answerC": "The Godfather",
+      "answerD": "Home Alone"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "How many Harry Potter movies are there?",
+      "askForClue": "There are 7 Harry Potter books.",
+      "answerA": "\"8\"",
+      "answerB": "\"6\"",
+      "answerC": "\"10\"",
+      "answerD": "\"4\""
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who directed the film Avatar?",
+      "askForClue": "He also directed the film Titanic.",
+      "answerA": "James Cameron",
+      "answerB": "Steven Spielberg",
+      "answerC": "J.J Abrams",
+      "answerD": "Martin Scorsese"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who directed the film Titanic?",
+      "askForClue": "He also directed the film Avatar.",
+      "answerA": "James Cameron",
+      "answerB": "Steven Spielberg",
+      "answerC": "J.J Abrams",
+      "answerD": "Martin Scorsese"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which genre is the movie Bridesmaids? ",
+      "askForClue": "Stars Melissa McCarthy and Kristen Wiig.",
+      "answerA": "Comedy ",
+      "answerB": "Romantic",
+      "answerC": "Sc-fi",
+      "answerD": "Drama"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which movie won best picture at the Oscars in 1997?",
+      "askForClue": "The film stars Leonardo DiCaprio and Kate Winslet.",
+      "answerA": "Titanic",
+      "answerB": "Good Will Hunting",
+      "answerC": "L.A Confidential",
+      "answerD": "As Good as It Gets"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Meryl Streep and Leonardo DiCaprio played Mother and Son in which movie?",
+      "askForClue": "Diane Keaton and Robert De Niro also stars in this movie. ",
+      "answerA": "Marvin's Room",
+      "answerB": "The Devil Wears Prada.",
+      "answerC": "The Great Gatsby ",
+      "answerD": "Sophies Choice"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Leonardo DiCaprio won an Oscar for \"best actor in a movie\" for which movie?",
+      "askForClue": "Tom Hardy stars in the film that Leonadro DiCaprio won an Oscar in. ",
+      "answerA": "The Revenant",
+      "answerB": "The Wolf Of Wall Street",
+      "answerC": "Blood Dimond",
+      "answerD": "The Great Gatsby"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "How many marvel movies are going to be released in 2018?",
+      "askForClue": "Dark Phoenix is one of the movies that are going to be released in 2018.",
+      "answerA": "\"6\"",
+      "answerB": "\"4\"",
+      "answerC": "\"3\"",
+      "answerD": "\"2\""
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "In which Harry Potter movie does Dumbledore die?",
+      "askForClue": "Dumbledore was killed by Snape during the Battle of the Astronomy Tower",
+      "answerA": "Harry Potter and the Deathly Hallow Part 2 ",
+      "answerB": "Harry Potter and the Deathly Hallows Part 1 ",
+      "answerC": "Harry Potter and the Prisoner Of Azkaban",
+      "answerD": "Harry Potter and Goblet Of Fire "
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who is going to play Han Solo in \"Solo: A Star Wars Star?\" ",
+      "askForClue": "The actor was born in 1989",
+      "answerA": "Aiden Ehrenreich",
+      "answerB": "Woody Harrelson",
+      "answerC": "Clint Eastwood ",
+      "answerD": "Harrison Ford"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who played Fred Flinstone in the 1984 film \"The Flintstones?\"",
+      "askForClue": "Starred in the recent film Kong: Skull Island",
+      "answerA": "John Goodman",
+      "answerB": "Harrison Ford ",
+      "answerC": "Daniel Day Lewis",
+      "answerD": "Johnny Depp"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who played Captain Jack Sparrow in the \"Pirates Of The Caribbean\" series of films?",
+      "askForClue": "Also played Edward Scissorhands ",
+      "answerA": "Johnny Depp",
+      "answerB": "Chris Hemsworth",
+      "answerC": "Leonardo DiCaprio",
+      "answerD": "Robert Downey Jr"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "How old was William Steig when he wrote Shrek?",
+      "askForClue": "Passed away at 95, two years after Shrek's release.",
+      "answerA": "\"84\"",
+      "answerB": "\"56\"",
+      "answerC": "\"42\"",
+      "answerD": "\"21\""
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "BB-8 is a character from which film? ",
+      "askForClue": "The film is part of a series films and is created by George Lucas.",
+      "answerA": "Stars Wars",
+      "answerB": "E.T",
+      "answerC": "Alien",
+      "answerD": "Nightmare On Elm Street"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which actor plays Captain America in the Captain America movies?",
+      "askForClue": "The actor was born in Massachusetts ",
+      "answerA": "Chris Evans",
+      "answerB": "Chris Hemsworth",
+      "answerC": "Chris Pratt ",
+      "answerD": "Paul Rudd"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "In which year was the film Jurassic World released?",
+      "askForClue": "The sequel to Jurassic World is going to be released in 2018.",
+      "answerA": "\"2015\"",
+      "answerB": "\"2016\"",
+      "answerC": "\"1999\"",
+      "answerD": "\"2001\""
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who wrote the movie Bridesmaids? ",
+      "askForClue": "Also starred in the Ghostbusters reboot.",
+      "answerA": "Kristen Wiig",
+      "answerB": "Maya Rudolph",
+      "answerC": "Rose Bryn",
+      "answerD": "Melissa McCarthy"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "What is the name of the school the character Harry Potter attends?",
+      "askForClue": "The school has 4 teams: Hufflepuff, Slytherin, Ravenclaw, and Gryffindor",
+      "answerA": "Hogwarts ",
+      "answerB": "Muggle ",
+      "answerC": "Hanson",
+      "answerD": "Oxford"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Ryan Reynolds played a fictional anti hero in which 2016 movie? ",
+      "askForClue": "The file received two Golden Globes and won two critics choice awards.",
+      "answerA": "Deadpool ",
+      "answerB": "Thor  ",
+      "answerC": "Batman",
+      "answerD": "The Green Lantern"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "The character Clark Kent form the Superman movies work for which newspaper?",
+      "askForClue": "The characters Lex Luthor and Bruce Wayne also own a part of the newspaper",
+      "answerA": "The Daily Planet",
+      "answerB": "The Gurdian",
+      "answerC": "The Sun ",
+      "answerD": "The Daily Mail"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who wrote the movie Mean Girls?",
+      "askForClue": "Also was a write for Saturday Night Live",
+      "answerA": "Tina Fey",
+      "answerB": "Amy Poehler",
+      "answerC": "Jeff Richmond ",
+      "answerD": "Amy Schumer"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "In what year was the last Harry Potter movie released?",
+      "askForClue": "The second to last Harry Potter movie was released in 2010.",
+      "answerA": "\"2011\"",
+      "answerB": "\"2010\"",
+      "answerC": "\"2003\"",
+      "answerD": "\"2003\""
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Melissa McCarthy plays detective and Sandra Bullock plays FBI agents in which movie?",
+      "askForClue": "The film was directed by Paul Feig.",
+      "answerA": "The Heat",
+      "answerB": "CHIPS",
+      "answerC": "21 Jump Street",
+      "answerD": "Identity Thief"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Frank Abagnale Jr, forges millions of dollar worth of checks for which movie? ",
+      "askForClue": "The film stars Tom Hanks and Leonardo DiCaprio.",
+      "answerA": "Catch Me If You Can",
+      "answerB": "Saving Private Ryan",
+      "answerC": "Wolf Of Wall Streeet",
+      "answerD": "Identity Thief"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Leonardo DiCaprio plays Jordan Belfort in which movie?",
+      "askForClue": "The film is based on a true story.",
+      "answerA": "The Wolf Of Wall Street",
+      "answerB": "Titanic",
+      "answerC": "The Great Gatsby ",
+      "answerD": "Romeo and Juliet"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Chewbecca is a fictional character from which movie series?",
+      "askForClue": "The film also has the character BB-8 ",
+      "answerA": "Star Wars ",
+      "answerB": "Harry Potter ",
+      "answerC": "Lord Of The Rings ",
+      "answerD": "Narina "
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Pretty Woman played by which actress? ",
+      "askForClue": "She was also in Notting Hill",
+      "answerA": "Julia Roberts",
+      "answerB": "Kate Winslet",
+      "answerC": "Sandra Bullock",
+      "answerD": "Amy Adams "
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who plays Fat Amy in the movie 'Pitch Perfect'? ",
+      "askForClue": "The film also starts Anna Kendrick",
+      "answerA": "Rebel Wilson",
+      "answerB": "Elizabeth Banks",
+      "answerC": "Anna Kendrick",
+      "answerD": "Brittney Snow"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which screenwriter has received the most Oscar nominations?",
+      "askForClue": "One of the films this person has screen played is Annie Hall",
+      "answerA": "Woody Allen",
+      "answerB": "Steven Spielberg",
+      "answerC": "Martin Scorsese",
+      "answerD": "Quentin Tarantino"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which American actor plays Scott Lang in 'Ant-Man and the Wasp?' ",
+      "askForClue": "Also in the Anchorman movies",
+      "answerA": "Paul Rudd",
+      "answerB": "Chris Evans",
+      "answerC": "Steve Carell ",
+      "answerD": "Seth Rogen"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Woody and Buzz Lightyear are twos from which movie? ",
+      "askForClue": "The movie is a disney film",
+      "answerA": "Toy Story",
+      "answerB": "Cars",
+      "answerC": "Wreck It Ralph",
+      "answerD": "Frozen"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which specific creature does Indiana Jones hate?",
+      "askForClue": "the film '__ on the plane'",
+      "answerA": "Snakes",
+      "answerB": "Spiders",
+      "answerC": "Scorpions",
+      "answerD": "Cockroaches"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who directed the film The Da Vinci Code? ",
+      "askForClue": "Also directed the film Rush ",
+      "answerA": "Ron Howard",
+      "answerB": "J.J Abrams",
+      "answerC": "Martin Scoresse",
+      "answerD": "Steven Spielberg"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "How many oscars did the Titanic Movie get?",
+      "askForClue": "9 + 1",
+      "answerA": "\"11\"",
+      "answerB": "\"10\"",
+      "answerC": "\"9\"",
+      "answerD": "\"12\""
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "What is the name of the newspaper where Peter Parker works in? ",
+      "askForClue": "Introduced in the The Spectular Spider-Man",
+      "answerA": "The Daily Bulge",
+      "answerB": "The Daily Planet",
+      "answerC": "The Daily Mirror",
+      "answerD": "The Daily Star"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Which movie features two characters called Simba and Mufasa?",
+      "askForClue": "Introduced in the The Spectular Spider-Man",
+      "answerA": "The Lion King",
+      "answerB": "Cars",
+      "answerC": "Frozen",
+      "answerD": "Tangled"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "Who wrote Willy Wonka and the Choclate Factory? ",
+      "askForClue": "Also wrote The BFG, and Matilda",
+      "answerA": "Roald Dahl",
+      "answerB": "Quentin Blake",
+      "answerC": "Dr Seuss",
+      "answerD": "J.K Rowling"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "What animal is Shrek's best buddy?",
+      "askForClue": "Part of the horse family",
+      "answerA": "Donkey",
+      "answerB": "Horse",
+      "answerC": "Monkey",
+      "answerD": "Cow"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "What type of fish is Dory from the 2003 movie 'Finding Nemo'?",
+      "askForClue": "Also known as Paracanthurus",
+      "answerA": "Blue Tang",
+      "answerB": "Gold Fish",
+      "answerC": "Guppy",
+      "answerD": "Wels Catfish"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "What was the first fully animated feature film released by Walt Disney?",
+      "askForClue": "The film was released in 1937",
+      "answerA": "Snow White ",
+      "answerB": "Finding Nemo",
+      "answerC": "Cars",
+      "answerD": "The Lion King"
+    },
+    {
+      "gameCategory": "Movies",
+      "gameQuestion": "How many 'Rocky' films did Sylvester Stone star in?",
+      "askForClue": "5 + 1",
+      "answerA": "\"6\"",
+      "answerB": "\"4\"",
+      "answerC": "\"7\"",
+      "answerD": "\"8\""
+    }
+  ]
+}
